@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Age In Minutes</string>
+    <string name="selected_date">Selected Date</string>
+    <string name="age_in_minute">Age in minute</string>
+    <string name="selected_date2">Selected Date</string>
+    <string name="view">view</string>
+    <string name="select_date">SELECT DATE</string>
+    <string name="in_minutes">IN MINUTES</string>
+    <string name="age">AGE</string>
+    <string name="calendar_app">CALENDAR APP</string>
+</resources>
